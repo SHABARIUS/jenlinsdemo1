@@ -1,1 +1,1 @@
-print("zhara zibiii")
+print("zhara  zibiii")
